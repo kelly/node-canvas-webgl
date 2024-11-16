@@ -26,7 +26,7 @@
     "url": "git://github.com/akira-cn/node-canvas-webgl.git"
   },
   "dependencies": {
-    "canvas": "^2.6.0",
+    "canvas": "^2.11.2",
     "gl": "^6.0.0"
   }
 }
